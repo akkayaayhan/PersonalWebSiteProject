@@ -34,6 +34,7 @@
     <Property Name="ADSOYAD" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
     <Property Name="MAIL" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
     <Property Name="MESAJ" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="KONU" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
   </EntityType>
   <EntityType Name="TBLYETENEKLER">
     <Key>

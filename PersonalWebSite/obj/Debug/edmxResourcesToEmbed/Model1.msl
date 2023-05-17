@@ -33,6 +33,7 @@
     <EntitySetMapping Name="TBLILETISIM">
       <EntityTypeMapping TypeName="DBCVENTITYModel.TBLILETISIM">
         <MappingFragment StoreEntitySet="TBLILETISIM">
+          <ScalarProperty Name="KONU" ColumnName="KONU" />
           <ScalarProperty Name="ID" ColumnName="ID" />
           <ScalarProperty Name="ADSOYAD" ColumnName="ADSOYAD" />
           <ScalarProperty Name="MAIL" ColumnName="MAIL" />

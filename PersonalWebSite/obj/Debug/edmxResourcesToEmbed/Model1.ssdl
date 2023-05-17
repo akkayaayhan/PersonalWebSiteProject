@@ -34,6 +34,7 @@
     <Property Name="ADSOYAD" Type="varchar" MaxLength="50" />
     <Property Name="MAIL" Type="varchar" MaxLength="50" />
     <Property Name="MESAJ" Type="varchar" MaxLength="500" />
+    <Property Name="KONU" Type="varchar" MaxLength="100" />
   </EntityType>
   <EntityType Name="TBLYETENEKLER">
     <Key>
